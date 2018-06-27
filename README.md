@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`1.0` (*Version-1.0/Dockerfile*)](https://github.com/SillyWhale/<project>/blob/<commithash>/versions/v1.0/Dockerfile)
+- [`latest` (*latest/Dockerfile*)](https://github.com/SillyWhale/<project>/blob/master/Dockerfile)
 
 # Quick reference
 
@@ -35,7 +35,7 @@ This yields us a virtual image size of about 4MB image.
 
 ## Documentation
 
-This image is well documented. [Check out the documentation at Viewdocs](http://docs.sillywhale.com/image/).
+This image is well documented. [Check out the documentation](http://docs.sillywhale.wtf/<project>/).
 
 # License
 
